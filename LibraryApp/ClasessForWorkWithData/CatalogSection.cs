@@ -8,5 +8,6 @@ namespace ClasessForWorkWithData
 {
     internal class CatalogSection
     {
+        // this is my kingdom home
     }
 }
