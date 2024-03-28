@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClasessForWorkWithData
 {
-    //hello world!
+    // hello burjui :)
+    // hello one more time
     internal class BookLibrary
     {
         
